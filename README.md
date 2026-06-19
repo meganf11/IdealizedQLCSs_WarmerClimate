@@ -3,3 +3,9 @@ This repository contains notebooks from the first chapter of my Ph.D. dissertati
 This project, entitled, "Assessing the Impact of Future Warming on Idealized Quasi-Linear Convective Systems," uses the [Cloud Model 1 (CM1)](https://www2.mmm.ucar.edu/people/bryan/cm1/) designed by [George Bryan (NCAR/PSU)](https://www.met.psu.edu/directory/george-bryan) to investigate various characteristics of quasi-linear convective systems under different future environments. The simulations are initalized with the canonical [Weisman and Klemp (1982)](https://journals.ametsoc.org/view/journals/mwre/110/6/1520-0493_1982_110_0504_tdonsc_2_0_co_2.xml) empirical sounding as a CTRL. This sounding is then pertubed with end-of-century climate perturbations derived from the [Community Earth System version 2 Large Ensemble (LENS2)](https://www.cesm.ucar.edu/community-projects/lens2), which was also developed at NCAR. 
 
 As of June 2026, this paper is in preparation for submission to the AMS Journal of Climate. This repo will updated with a link to the preprint upon submission.  
+
+## Notebooks: 
+Each notebook shares the same structure: loading and preparing the data and creating basic plots.
+
+- **Vertical profiles of hydrometeor mixing ratios:** `ThompsonSpecies.ipynb`
+- **Plan view of reflectivity at the LFC/specified height:** `cappy.ipynb`
