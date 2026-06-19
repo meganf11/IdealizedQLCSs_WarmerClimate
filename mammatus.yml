@@ -1,0 +1,13 @@
+name: base
+channels:
+  - conda-forge
+  - r
+dependencies:
+  - python
+  - mamba
+  - ca-certificates
+  - certifi
+  - openssl
+  - ruamel
+  - conda
+prefix: /glade/u/apps/opt/conda
