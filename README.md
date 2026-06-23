@@ -9,3 +9,4 @@ Each notebook shares the same structure: loading and preparing the data and crea
 
 - **Vertical profiles of hydrometeor mixing ratios:** `ThompsonSpecies.ipynb`
 - **Plan view of reflectivity at the LFC/specified height:** `cappy.ipynb`
+- **Histograms:** `Histograms.ipynb`
