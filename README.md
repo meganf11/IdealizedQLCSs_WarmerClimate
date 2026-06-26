@@ -10,4 +10,5 @@ Each notebook shares the same structure: loading and preparing the data and crea
 - **Vertical profiles of hydrometeor mixing ratios:** `ThompsonSpecies.ipynb`
 - **Plan view of reflectivity at the LFC/specified height:** `cappy.ipynb`
 - **Histograms:** `Histograms.ipynb`
+- **Plots of rainfall rate and accumulated rainfall across the simulations:** `rainfall_diagnostics.ipynb`
 - **Percent changes of skew-t variables relative to the CTRL sounding:** `percent_differences.ipynb`
